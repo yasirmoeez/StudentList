@@ -10,9 +10,9 @@ import java.util.Scanner;
 public class StudentList {
 
     public static void main(String[] args) {
-
-        // Create an array to hold 2 instances of Student
-        Student[] students = new Student[2];
+//changing size from 2 to 3 in 2nd commit
+        // Create an array to hold 3 instances of Student
+        Student[] students = new Student[3];
         
         Scanner input = new Scanner(System.in);        
         System.out.println("Enter student names");
